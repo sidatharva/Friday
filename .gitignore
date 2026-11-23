@@ -1,0 +1,23 @@
+# Vosk speech model (download separately, see README)
+/model/
+
+# Byte-compiled / build artifacts
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Screenshots taken by the "screenshot" voice command
+screen_*.png
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
